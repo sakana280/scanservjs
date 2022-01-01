@@ -1,3 +1,5 @@
+This is a fork of [sbs20/scanservjs](https://github.com/sbs20/scanservjs) that includes support for HP scanners. The upstream has included support for HP scanners since v2.20.0 but does not include in its default dockerhub build. Docker images with support for HP scanners can be found at https://hub.docker.com/r/sakana280/scanservjs .
+
 # scanservjs
 
 [![Build Status](https://img.shields.io/github/workflow/status/sbs20/scanservjs/NodeCI?style=for-the-badge)](https://github.com/sbs20/scanservjs/actions)
